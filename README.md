@@ -226,10 +226,10 @@ These genes formed strong interaction hubs associated with tumor proliferation.
 ```text
 Main-Folder/
 │
-├── data/
+├── dataset/
+├── docs/
 ├── orange_workflow/
 ├── results/
 ├── report/
-├── figures/
 
 © 2026 Anas. Released under the MIT License.
