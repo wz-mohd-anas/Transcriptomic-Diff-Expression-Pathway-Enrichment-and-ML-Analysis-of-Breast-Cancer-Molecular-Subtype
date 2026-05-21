@@ -231,3 +231,5 @@ Main-Folder/
 ├── results/
 ├── report/
 ├── figures/
+
+© 2026 Anas. Released under the MIT License.
